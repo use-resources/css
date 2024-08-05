@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+svg {
+  width: 15px;
+  height: 15px;
+}
+
+button,
+input,
+textarea {
+  background: none;
+  border: none;
+  outline: none;
+
+  color: inherit;
+  font-family: inherit;
+  resize: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
